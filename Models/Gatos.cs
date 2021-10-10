@@ -1,0 +1,1 @@
+﻿public record Gato(Guid Id, string Nome, DateTime Aniversario);
